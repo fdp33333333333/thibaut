@@ -1,0 +1,76 @@
+h2{ 
+	color: red;
+	font-family: Courier, serif;
+	font-size:30px;
+	line-height: 20px;
+
+
+
+} 
+h1 {color: #3b2ecc;
+	font-weight: lighter;
+    font-size: 67px;
+    line-height: 100px;
+    letter-spacing: 2px;
+    position: relative;
+    top: -382px;
+    margin: 0px auto;
+    }
+
+
+
+
+
+body {background-color:#2ec7cc;
+	  color: white;
+	   }
+
+.thibaut{ 
+    padding: 40px;
+    border-radius: 196px;
+    width: 313px;
+    height: 304px;
+    position: relative;
+    top: -51px;
+    right: -900px;
+}
+.paragraph{position: relative;
+			top: -300px
+		}
+.bottom { color: darkgreen;
+    font-size: 28px;
+    position: relative;
+    top: -243px;
+    font-family: "Allura";
+    margin: 0px auto;
+    width: 320px; 
+		  
+		}
+@media (max-width:500px) {
+	.text {
+		width:400px;	
+	 }
+	 h1 {position: relative;
+	 	top: -340px;
+	 	margin: 0px auto;
+	 	width: 500px;
+	 	font-size: 30px;
+	 	padding: 0px;
+	 	line-height: 40px;
+	 	}
+	 h2 {font-size: 15px;}
+	 .bottom{font-size: 20px}
+
+	 img {position: relative;
+	 	   right: 20px;
+	 	   }  
+	 		}
+
+
+   
+a{transition: all 1s ease;} 
+
+a:hover{
+  color: red;
+ 		 }    
+
